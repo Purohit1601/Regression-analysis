@@ -24,6 +24,3 @@ The model was evaluated using standard regression metrics to ensure predictive a
 2. Install dependencies: `pip install pandas matplotlib seaborn scikit-learn`.
 3. Open `DSE_LinearRegression_AppEnergy_Final_MVL2_0.ipynb` in your preferred Jupyter environment.
 4. Run the cells to view the data transformation and model coefficients.
-
----
-*Developed as part of a Data Science & Engineering curriculum focused on high-dimensional predictive modeling.*
